@@ -1,4 +1,4 @@
-# My-Demo-Application (приложение для Android)
+# My-Demo-Application (для Android)
 В этом приложении использованы компоненты: 
 -dagger:2.5
 -butterknife:8.1.0-
