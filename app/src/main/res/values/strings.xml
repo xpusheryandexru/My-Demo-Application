@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Demo Application</string>
+    <string name="new_photo">Новые фото</string>
+    <string name="photo_of_the_day">Фото дня</string>
+    <string name="interesting_photos">Интересные фото</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_select_size_photo">Размер фото</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="about">В этом приложении использованы компоненты: \n dagger:2.5, butterknife:8.1.0, recyclerview-v7:26.1.0, flexible-adapter:5.0.0-rc1, rxandroid:2.0.1,converter-simplexml:2.3.0,picasso:2.5.2, nl.psdcompany:duo-navigation-drawer:2.0.6 и др. \n\n Для просмотра фото воспользуйтесь главным меню ActionBar. \n\n Фотографии предоставлены "Яндекс.Фотки"</string>
+
+</resources>

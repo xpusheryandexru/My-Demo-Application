@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.mydemoapplication.presentation.views.widget.MainMenuItemView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingLeft="@dimen/common_block_space_double_semi"
+    android:paddingRight="@dimen/common_block_space_double_semi"
+    android:paddingTop="4dp"
+    android:paddingBottom="4dp" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical">
+            <RelativeLayout
+                android:layout_width="@dimen/size_main_menu_icon"
+                android:layout_height="@dimen/size_main_menu_icon"
+                android:layout_marginRight="@dimen/common_block_space_double_semi"
+                >
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:id="@+id/view.menuField.icon"/>
+
+            </RelativeLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorWhite"
+            android:textSize="16sp"
+            android:id="@+id/view.menuField.title"/>
+    </LinearLayout>
+
+</com.mydemoapplication.presentation.views.widget.MainMenuItemView>

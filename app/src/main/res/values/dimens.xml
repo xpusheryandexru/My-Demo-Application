@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="avatar_space">5dp</dimen>
+    <dimen name="common_block_space">20dp</dimen>
+    <dimen name="common_block_space_double_semi">15dp</dimen>
+    <dimen name="common_block_space_half">5dp</dimen>
+    <dimen name="text_size_title_tool_bar">18sp</dimen>
+    <dimen name="text_size_sub_title_tool_bar">14sp</dimen>
+    <dimen name="size_main_menu_avatar">120dp</dimen>
+    <dimen name="size_main_menu_icon">28dp</dimen>
+    <dimen name="text_size_about">20sp</dimen>
+</resources>
